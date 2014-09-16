@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Conner Smith's Blog
 locale:           en_US
 url:              http://localhost:4000
 
@@ -26,29 +26,29 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  name: Conner Smith
+  avatar: conner.jpg
+  bio: "Lover of sports, the Buffalo Bills, programming, and gaming. Unfortunately political and opinonated."
+  email:
+  disqus-shortname: connerpsmith
+  twitter: x3igh7
+  facebook: conner.smith.31
   google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
+    plus: connerpsmith
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: x3igh7
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: connerpsmith
   instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: x3igh7
   dribbble: #username
 
 include: [".htaccess"]

@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+excerpt: "A blog by Conner Smith."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: ralphwilson.jpg
+  credit: Buffalo Bills
+  creditlink: www.buffalobills.com
 ---
