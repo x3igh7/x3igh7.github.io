@@ -10,7 +10,7 @@ image:
   feature: ralphwilson.jpg
 date: 2014-09-21T21:19:04-05:00
 ---
-< br>
+
 My grandfather, Lyman, died ironically: in an attempt to keep his heart strong, his heart failed him; while running on a treadmill a heart attack produced his collapse, subsequent coma, and eventual death. I can’t help but to reminded of one of my other grandfather’s many sayings: “When I die and go to heaven God is going to tell me, ‘Salad is unhealthy; exercise is bad for you. You should have drank more beer.’”
 
 I think the hardest part of being old enough to comprehend the death of your grandparents is that you are suddenly forced into the uncomfortable position of supporting your grieving parent. Uncomfortable![Papa and Granny M]({{ site.url }}/images/papagrannym.jpg){: .image-pull-right} not because it’s awkward that your parents are sad, but more that you have absolutely no idea what you’re supposed to do or say; that’s your parents’ job to know that stuff. Then you realize that their own parent, who’s supposed to be there to guide them on how to care for their own grieving children, is no longer able to. It’s a circle of Suck.
