@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lessons About Life."
+title: "Lessons About Life"
 modified: 2014-09-21
 categories:
 excerpt: "Some thoughts on life, and a tribute to my late grandfather."

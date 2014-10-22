@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Lessons About Life."
+title: "Select Filter By Text"
 modified: 2014-10-22
 categories:
-excerpt: "Select Filter By Text"
+excerpt: "A small jQuery plugin that filters select elements."
 tags: []
 comments: true
 image:
