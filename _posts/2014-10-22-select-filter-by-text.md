@@ -14,6 +14,8 @@ I pulled together some code for a little jQuery plugin that turns a text input f
 
 [Check it out on GitHub.](https://github.com/x3igh7/select_filter_by_text)
 
+Credit to Lessan Vaezi for the starting point! [http://www.lessanvaezi.com/filter-select-list-options/](http://www.lessanvaezi.com/filter-select-list-options/)
+
 
 
 
