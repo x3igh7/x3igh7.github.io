@@ -12,9 +12,9 @@ date: 2014-11-03T18:45:18-06:00
 ---
 1. Create the new rails app:
 
-	```ruby
+	{% highlight ruby %}
 	rails new -T -d postgresql
-	```
+	{% endhighlight %}
 
 2. Edit the Gemfile:
 
@@ -22,7 +22,7 @@ date: 2014-11-03T18:45:18-06:00
 
 	Add the following gems -
 
-	```ruby
+	{% highlight ruby %}
 	gem 'activeadmin', github: 'activeadmin'
 	gem "devise"
 
@@ -47,17 +47,17 @@ date: 2014-11-03T18:45:18-06:00
 	  gem "shoulda-matchers"
 	  gem "spring-commands-rspec"
 	end
-	```
+	{% endhighlight %}
 
 3. Bundle install
 
 4. Generate some files:
 
-	```ruby
+	{% highlight ruby %}
 	rails generate rspec:install
 	rails generate active_admin:install //skip this one if you arent using active admin, maybe devise install instead
 	spring binstub --all
 	rake db:create db:migrate
-	```
+	{% endhighlight %}
 
 5. Try rake or rspec and make sure warning are disabled in Rspec.
