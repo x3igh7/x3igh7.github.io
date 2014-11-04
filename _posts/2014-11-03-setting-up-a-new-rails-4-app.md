@@ -10,17 +10,15 @@ image:
   feature: ralphwilson.jpg
 date: 2014-11-03T18:45:18-06:00
 ---
-1. Create the new rails app:
+## Create the new rails app:
 
 	{% highlight ruby %}
 	rails new -T -d postgresql
 	{% endhighlight %}
 
-2. Edit the Gemfile:
+## Edit the Gemfile:
 
-	Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code>, <code>jbuilder</code>, and <code>coffee-rails</code>.
-
-	Add the following gems -
+	Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code>, <code>jbuilder</code>, and <code>coffee-rails</code>. Add the following gems:
 
 	{% highlight ruby %}
 	gem 'activeadmin', github: 'activeadmin'
@@ -49,9 +47,8 @@ date: 2014-11-03T18:45:18-06:00
 	end
 	{% endhighlight %}
 
-3. Bundle install
-
-4. Generate some files:
+## Bundle install
+## Generate some files:
 
 	{% highlight ruby %}
 	rails generate rspec:install
@@ -60,4 +57,4 @@ date: 2014-11-03T18:45:18-06:00
 	rake db:create db:migrate
 	{% endhighlight %}
 
-5. Try rake or rspec and make sure warning are disabled in Rspec.
+## Try rake or rspec and make sure warning are disabled in Rspec.
