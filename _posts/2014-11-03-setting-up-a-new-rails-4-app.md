@@ -54,6 +54,7 @@ date: 2014-11-03T18:45:18-06:00
 
 	{% highlight ruby %}
 	rails generate rspec:install
+	rails generate simple_form:install
 	rails generate active_admin:install //skip this one if you arent using active admin, maybe devise install instead
 	spring binstub --all
 	rake db:create db:migrate
