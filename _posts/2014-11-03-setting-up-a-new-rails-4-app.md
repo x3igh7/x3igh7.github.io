@@ -23,6 +23,8 @@ date: 2014-11-03T18:45:18-06:00
 	{% highlight ruby %}
 	gem 'activeadmin', github: 'activeadmin'
 	gem "devise"
+	gem 'simple_form'
+	gem 'browser-timezone-rails'
 
 	group :development do
 	  gem "better_errors"
