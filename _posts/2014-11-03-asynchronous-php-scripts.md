@@ -16,7 +16,7 @@ In addition to the AJAX call that initiates the stored procedure, we also had an
 
 This is where the handy PHP function <code>session_write_close()</code> came into use. We simply plugged this in the start of the PHP function that initiated the process creation through and AJAX call. Such that
 
-```php
+```PHP
 public function startProcess($args){
 	session_write_close();
 
