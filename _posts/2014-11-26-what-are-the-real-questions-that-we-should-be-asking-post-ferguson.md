@@ -1,0 +1,23 @@
+---
+layout: post
+title: "What Are the Real Questions That We Should Be Asking Post-Ferguson?"
+modified:
+categories:
+excerpt: "I'm completely unsurprised that the Grand Jury did not indict the officer who shot Michael Brown. It was the right decision. But justice was not done."
+comments: true
+tags: []
+image:
+  feature: ralphwilson.jpg
+date: 2014-11-26T14:48:53-06:00
+---
+To a conservative mind justice was done on Monday: police officers regularly put their lives on the line in order to protect public order, and there is no doubt that Michael Brown used violence against the officer in some way, shape, or form; the officer acted as he was trained to do and protected himself by discharging his firearm. The grand jury evaluated the evidence and concluded that, in fact, there was no evidence that nessecitated an indictment of the man who killed Michael. Many speculated that the only reason the case was brought before the Grand Jury to begin with was because of popular pressure, not because there was a real case to be made discrediting the police officer's story. Rationally, I firmly believe these things to be true. Yet there remains a pit in my stomach. There is something terribly wrong with how we enforce the law in this country. Justice was not served in Ferguson. At least not yet.
+
+Lets take race out of the equation. With appologies to those who believe are steering the narrative away from the the plight of the black man in America, I will present a couple reasons why race is a non-starter for me. First, racism is a highly emotional issue. There is no way to truely identify a person as a racist, no way to truely know a human's heart. One may not even know their own heart; only God can knows a person's heart, and unless God plans on coming down here and judging everyone sometime soon, it will forever remain a mystery. Second, all human-kind is created equal; all life is valuable. Looking at this issue through the lens of race is counter-productive. It's backward and only serves to serperate us through our differences instead of identifying those things that bind us together. Third, while black people live in my world, I do not live in theirs. I am an upper middle class, white male. It would be disingenous to suggest I truely know of their world.
+
+Now we've cleared away many of messy, heated, and unsolvable issues standing in the way of our pursuit for justice. Only the root of this entire saga remains. It is within the rights of a police officer to take a person's life. The question that naturally follows this revelation is, "Should a police officer have the right to choose who lives or dies?" In order for justice to be achieved for the death of Michael Brown, the answer to this question must be, "No."
+
+The only time a person has the right to take another person's life within society is during a state of war. Even the right to self-defense does not wholly absolve one of murder. Yet the status of a police officer affords them rights that exist entirely outside of this social contract. They are given a lisence to kill, and their judgement in the matter is held in high regard. But why?
+
+With all due respect to law enforcement personel, permit us to conduct this exercise. I truely wonder where this right began. Is it codified that law enforcement has the right to kill? Or is it merely a tradition, adopted over time and reinforced by criminal trials? I'm curious as to what the state laws say on this issue, and in what years those laws were passed. I truely don't know. Regardless, let us cut to the marrow of the issue. Who are police officers that they can choose who will continue living? In most cases they are represented by a swathe of positive adjectives. Yet, these men and women are not our best and brightest. Ivy League graduates are not lining up to enroll in our police academies.
+
+In the wake of the Baltimore riots, a former Baltimore police officer published a series of tweets detailing the unscrupulous practices he took part in as a member of the city's police force. He talked about how there is a culture that encourages that sort of behavior, and how even though they knew they'd be much more likely to find illegal drugs on white persons, they avoided arresting them because of the legal and political issues that would arise as a result of heavily policing of white neighborhoods. Eventually, he came to look upon his past behavior with shame. There was one statement that I found particularly poignant from this man: “A hero is the guy who hesitates before shooting, the guy that takes the risk of being shot himself for the sake of not killing an innocent person.” That is the kind of policing that we should strive for.
