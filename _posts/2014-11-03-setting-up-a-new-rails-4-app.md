@@ -13,7 +13,7 @@ date: 2014-11-03T18:45:18-06:00
 ## Create the new rails app:
 
 	{% highlight ruby %}
-	rails new -T -d postgresql
+	rails new <directory> -T -d postgresql
 	{% endhighlight %}
 
 ## Edit the Gemfile:
