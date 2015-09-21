@@ -21,7 +21,7 @@ date: 2014-11-03T18:45:18-06:00
 Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code>, <code>jbuilder</code>, and <code>coffee-rails</code>. Add the following gems:
 
 	{% highlight ruby %}
-	gem 'activeadmin', github: 'activeadmin'
+gem 'activeadmin', github: 'activeadmin'
 	gem "devise"
 	gem 'simple_form'
 	gem 'browser-timezone-rails'
@@ -51,12 +51,12 @@ Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code
 
 ## Bundle install
 ## Generate some files:
-{% highlight ruby %}
-	rails generate rspec:install
+	{% highlight ruby %}
+rails generate rspec:install
 	rails generate simple_form:install
 	rails generate active_admin:install //skip this one if you arent using active admin, maybe devise install instead
 	spring binstub --all
 	rake db:create db:migrate
-{% endhighlight %}
+	{% endhighlight %}
 
 ## Try rake or rspec and make sure warning are disabled in Rspec.
