@@ -51,13 +51,12 @@ Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code
 
 ## Bundle install
 ## Generate some files:
-
-	{% highlight ruby %}
+{% highlight ruby %}
 	rails generate rspec:install
 	rails generate simple_form:install
 	rails generate active_admin:install //skip this one if you arent using active admin, maybe devise install instead
 	spring binstub --all
 	rake db:create db:migrate
-	{% endhighlight %}
+{% endhighlight %}
 
 ## Try rake or rspec and make sure warning are disabled in Rspec.
