@@ -18,7 +18,7 @@ date: 2014-11-03T18:45:18-06:00
 
 ## Edit the Gemfile:
 
-	Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code>, <code>jbuilder</code>, and <code>coffee-rails</code>. Add the following gems:
+Remove the <code>gem turbolinks</code>. You can also get rid of <code>sdoc</code>, <code>jbuilder</code>, and <code>coffee-rails</code>. Add the following gems:
 
 	{% highlight ruby %}
 	gem 'activeadmin', github: 'activeadmin'
